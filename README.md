@@ -8,11 +8,6 @@ University of Tsukuba klis23
 
 </div>
 
-## About me
-
-- TypeScript / Reactを中心に、体験設計から実装・公開まで取り組んでいます
-- 開発者の学習や理解を支えるツールに関心があります
-- Pythonを使った機械学習・信号処理にも取り組んでいます
 
 ## Tech stack
 
