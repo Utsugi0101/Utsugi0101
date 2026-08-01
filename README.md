@@ -2,7 +2,7 @@
 
 # Hi, I'm Utsugi 👋
 
-- University of Tsukuba klis23
+University of Tsukuba klis23
 
 [Portfolio](https://utsugi0101.dev) · [Tech Stack](#tech-stack)
 
